@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "preview",
   "packageId": "jp.yseradevelop.yokohamaneko",
-  "versionName": "1.8",
-  "versionCode": 9,
-  "apkUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/download/v1.8/yokohama-neko-v1.8-debug.apk",
-  "apkSizeBytes": 6311139,
-  "apkSha256": "1d5f5b2e438b03ffb41ec31fee0861a5ae01edcc44805cc9537c95fd748f0406",
+  "versionName": "1.9",
+  "versionCode": 10,
+  "apkUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/download/v1.9/yokohama-neko-v1.9-debug.apk",
+  "apkSizeBytes": 6311935,
+  "apkSha256": "e9bc77d05fb085d9d0f269cc4715bb45c5facb6499bf40291ad8586ecf56c50b",
   "signingCertificateSha256": "9613cd742136fb6bcf9b954913a57959eeccec5a983d26dedd3ae8949c089666",
-  "releaseUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/tag/v1.8",
-  "publishedAt": "2026-10-05T07:55:03Z",
+  "releaseUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/tag/v1.9",
+  "publishedAt": "2026-10-05T12:09:03Z",
   "minSdk": 24,
-  "releaseNotes": "アプリ内に現在のバージョンと更新確認を追加。新しい配布版がある場合だけAPKをブラウザーで開きます。保存とインストールはブラウザーとAndroidの確認画面で行います。v1.7からの初回更新は配布ページから手動で行ってください。Android WebView・実機ダウンロード・インストールは未検証です。"
+  "releaseNotes": "検索の全角・半角などの表記ゆれと空白区切りのAND検索に対応。起動中も保存情報の30日期限を再評価し、カード・条件・件数・カレンダーの表示を揃えます。通信や保存書き込みは増やしません。v1.9の実機操作・インストールは未検証です。更新画面で現在版の再取得と更新確認が重なる際の表示・フォーカスの既知問題は残ります。"
 }
