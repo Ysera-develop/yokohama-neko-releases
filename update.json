@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "preview",
   "packageId": "jp.yseradevelop.yokohamaneko",
-  "versionName": "1.9",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/download/v1.9/yokohama-neko-v1.9-debug.apk",
-  "apkSizeBytes": 6311935,
-  "apkSha256": "e9bc77d05fb085d9d0f269cc4715bb45c5facb6499bf40291ad8586ecf56c50b",
+  "versionName": "1.10",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/download/v1.10/yokohama-neko-v1.10-debug.apk",
+  "apkSizeBytes": 6313068,
+  "apkSha256": "0e1a704b52fb021d3498d3517c07770a87ad90aef3696033989fd5f6db8a206c",
   "signingCertificateSha256": "9613cd742136fb6bcf9b954913a57959eeccec5a983d26dedd3ae8949c089666",
-  "releaseUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/tag/v1.9",
-  "publishedAt": "2026-10-05T12:09:03Z",
+  "releaseUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/tag/v1.10",
+  "publishedAt": "2026-10-05T16:34:03Z",
   "minSdk": 24,
-  "releaseNotes": "検索の全角・半角などの表記ゆれと空白区切りのAND検索に対応。起動中も保存情報の30日期限を再評価し、カード・条件・件数・カレンダーの表示を揃えます。通信や保存書き込みは増やしません。v1.9の実機操作・インストールは未検証です。更新画面で現在版の再取得と更新確認が重なる際の表示・フォーカスの既知問題は残ります。"
+  "releaseNotes": "配色・フォント・猫画像を維持し、補足説明を開閉式に整理。重要な取得状況や注意は常時表示し、カードの読み順と折り返しを改善しました。更新画面の非同期処理の競合とフォーカス移動を修正。DOM・CSS・模擬テストは成功していますが、実画面・200%拡大・TalkBack・端末での動作やインストールは未検証です。"
 }
