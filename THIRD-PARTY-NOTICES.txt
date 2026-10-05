@@ -1,4 +1,4 @@
-ヨコハマ ねこ便り v1.7 — Third-party notices
+ヨコハマ ねこ便り v1.7 / v1.8 — Third-party notices
 
 This file accompanies the Android trial APK. Third-party licenses apply to their respective components only. This file does not grant a license to the application as a whole.
 
