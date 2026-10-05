@@ -4,11 +4,11 @@
 
 ## インストール
 
-1. Releasesの試用版を開き、`yokohama-neko-v1.7-debug.apk`をダウンロードしてください。
+1. [v1.7の配布ページ](https://github.com/Ysera-develop/yokohama-neko-releases/releases/tag/v1.7)を開き、`yokohama-neko-v1.7-debug.apk`をダウンロードしてください。
 2. Android 7.0以降の端末でAPKを開き、Androidの確認画面に従ってインストールします。配布元とハッシュを確認してください。端末のセキュリティ警告を無視しないでください。
 3. 既存版を使っている場合は、同じアプリID・署名のAPKで上書き更新してください。アンインストールすると端末内のお気に入りや保存情報が消える場合があります。
 
-Google Play公開版ではなく、デバッグ署名付きの試用版です。第三者ライセンス通知は`THIRD-PARTY-NOTICES.txt`をご確認ください。
+Google Play公開版ではなく、デバッグ署名付きの試用版です。第三者ライセンス通知は[THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt)をご確認ください。
 
 ## 配布情報
 
@@ -28,4 +28,4 @@ Google Play公開版ではなく、デバッグ署名付きの試用版です。
 - 休館日などを確定できない会期は「開催日要確認」と表示します。お出かけ前は必ず主催者の公式案内をご確認ください。
 - 検索条件・お気に入り・取得情報は端末内に保存します。
 
-変更内容は`CHANGELOG.md`をご覧ください。
+変更内容は[CHANGELOG.md](CHANGELOG.md)、機械可読の更新情報は[update.json](https://raw.githubusercontent.com/Ysera-develop/yokohama-neko-releases/refs/heads/main/update.json)をご覧ください。
