@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "preview",
   "packageId": "jp.yseradevelop.yokohamaneko",
-  "versionName": "1.7",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/download/v1.7/yokohama-neko-v1.7-debug.apk",
-  "apkSizeBytes": 6303731,
-  "apkSha256": "7e749ebae5efedfb5222d4d91ed75cbd5b5233eaed95a138154ab5bd436270ca",
+  "versionName": "1.8",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/download/v1.8/yokohama-neko-v1.8-debug.apk",
+  "apkSizeBytes": 6311139,
+  "apkSha256": "1d5f5b2e438b03ffb41ec31fee0861a5ae01edcc44805cc9537c95fd748f0406",
   "signingCertificateSha256": "9613cd742136fb6bcf9b954913a57959eeccec5a983d26dedd3ae8949c089666",
-  "releaseUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/tag/v1.7",
-  "publishedAt": "2026-10-05T06:53:09Z",
+  "releaseUrl": "https://github.com/Ysera-develop/yokohama-neko-releases/releases/tag/v1.8",
+  "publishedAt": "2026-10-05T07:55:03Z",
   "minSdk": 24,
-  "releaseNotes": "会場情報による屋内・屋外の推定を公式条件と区別して表示。パシフィコ横浜の検索と部分取得を改善。休館日などのある会期は「開催日要確認」として日別表示から除外します。Android 7.0以降向けの試用版です。実機UI・ネイティブHTTPは未検証。お出かけ前は公式案内をご確認ください。"
+  "releaseNotes": "アプリ内に現在のバージョンと更新確認を追加。新しい配布版がある場合だけAPKをブラウザーで開きます。保存とインストールはブラウザーとAndroidの確認画面で行います。v1.7からの初回更新は配布ページから手動で行ってください。Android WebView・実機ダウンロード・インストールは未検証です。"
 }
